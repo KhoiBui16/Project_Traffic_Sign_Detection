@@ -1,9 +1,13 @@
 # Project_Traffic_Sign_Detection
 
-## Object Detection Pipeline – 2 Phases
 
-The traffic sign recognition task is divided into two main phases:
+This project implements a **2-phase object detection pipeline** to recognize and localize traffic signs using a custom dataset.
 
+---
+
+## 📌 Project Overview
+
+The task is divided into **two main phases**:
 ---
 
 ### Phase 1: Classification
