@@ -20,6 +20,8 @@ The traffic sign recognition task is divided into two main phases:
 
 > 📌 **Output**: A trained SVM classifier capable of distinguishing between multiple types of traffic signs.
 
+✅ **Validation Accuracy**: **97.21%**
+
 ---
 
 ### Phase 2: Localization & Evaluation
